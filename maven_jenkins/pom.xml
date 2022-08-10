@@ -25,18 +25,5 @@
     </dependency>
   </dependencies>
   
-  <build>
-  <pluginManagement>
-  <plugins>
-  <plugin>
-  <configuration>
-<archive>
-<manifest>
-<mainClass>com.example.App</mainClass>
-</manifest>
-</archive>
-</configuration></plugin>
-  </plugins>
-  </pluginManagement>
-  </build>
+  
 </project>
